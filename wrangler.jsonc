@@ -9,11 +9,5 @@
 	"upload_source_maps": true,
 	"compatibility_flags": [
 		"nodejs_compat"
-	],
-	"routes": [
-		{
-			"pattern": "api.valency.top",
-			"custom_domain": true
-		}
 	]
 }
